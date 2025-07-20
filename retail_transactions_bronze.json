@@ -43,7 +43,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1019",
     "product_category": "Electronics",
-    "amount": 139.21,
+    "amount": -139.21,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -55,7 +55,7 @@
     "payment_method": "UPI",
     "product_id": "P1018",
     "product_category": "Electronics",
-    "amount": 397.0,
+    "amount": -397.0,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -79,7 +79,7 @@
     "payment_method": "UPI",
     "product_id": "P1016",
     "product_category": "Books",
-    "amount": 464.49,
+    "amount": -464.49,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -103,7 +103,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1007",
     "product_category": "Clothing",
-    "amount": 496.75,
+    "amount": -496.75,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -151,7 +151,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1003",
     "product_category": "Home Decor",
-    "amount": 160.99,
+    "amount": -160.99,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -163,7 +163,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1010",
     "product_category": "Groceries",
-    "amount": 242.54,
+    "amount": -242.54,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -187,7 +187,7 @@
     "payment_method": "Cash",
     "product_id": "P1002",
     "product_category": "Clothing",
-    "amount": 354.21,
+    "amount": -354.21,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -235,7 +235,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1002",
     "product_category": "Books",
-    "amount": 73.87,
+    "amount": -73.87,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -271,7 +271,7 @@
     "payment_method": "UPI",
     "product_id": "P1001",
     "product_category": "Clothing",
-    "amount": 188.4,
+    "amount": -188.4,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -295,7 +295,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1017",
     "product_category": "Groceries",
-    "amount": 360.76,
+    "amount": -360.76,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -343,7 +343,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1011",
     "product_category": "Groceries",
-    "amount": 466.42,
+    "amount": -466.42,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -355,7 +355,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1014",
     "product_category": "Books",
-    "amount": 279.18,
+    "amount": -279.18,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -367,7 +367,7 @@
     "payment_method": "Cash",
     "product_id": "P1019",
     "product_category": "Groceries",
-    "amount": 137.29,
+    "amount": -137.29,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -379,7 +379,7 @@
     "payment_method": "UPI",
     "product_id": "P1013",
     "product_category": "Home Decor",
-    "amount": 145.95,
+    "amount": -145.95,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -439,7 +439,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1002",
     "product_category": "Home Decor",
-    "amount": 274.03,
+    "amount": -274.03,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -499,7 +499,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1016",
     "product_category": "Electronics",
-    "amount": 253.92,
+    "amount": -253.92,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -511,7 +511,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1004",
     "product_category": "Electronics",
-    "amount": 145.45,
+    "amount": -145.45,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -523,7 +523,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1006",
     "product_category": "Books",
-    "amount": 60.8,
+    "amount": -60.8,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -535,7 +535,7 @@
     "payment_method": "Cash",
     "product_id": "P1006",
     "product_category": "Books",
-    "amount": 188.45,
+    "amount": -188.45,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -583,7 +583,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1004",
     "product_category": "Electronics",
-    "amount": 157.17,
+    "amount": -157.17,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -619,7 +619,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1004",
     "product_category": "Home Decor",
-    "amount": 420.7,
+    "amount": -420.7,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -655,7 +655,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1011",
     "product_category": "Groceries",
-    "amount": 362.27,
+    "amount": -362.27,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -751,7 +751,7 @@
     "payment_method": "UPI",
     "product_id": "P1010",
     "product_category": "Home Decor",
-    "amount": 349.98,
+    "amount": -349.98,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -811,7 +811,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1020",
     "product_category": "Books",
-    "amount": 111.14,
+    "amount": -111.14,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -847,7 +847,7 @@
     "payment_method": "UPI",
     "product_id": "P1016",
     "product_category": "Electronics",
-    "amount": 81.76,
+    "amount": -81.76,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -883,7 +883,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1017",
     "product_category": "Groceries",
-    "amount": 209.65,
+    "amount": -209.65,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -895,7 +895,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1009",
     "product_category": "Books",
-    "amount": 480.66,
+    "amount": -480.66,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -907,7 +907,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1019",
     "product_category": "Books",
-    "amount": 155.7,
+    "amount": -155.7,
     "location": "Mumbai",
     "status": "Refunded"
   },
@@ -955,7 +955,7 @@
     "payment_method": "Cash",
     "product_id": "P1008",
     "product_category": "Books",
-    "amount": 404.37,
+    "amount": -404.37,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -1003,7 +1003,7 @@
     "payment_method": "UPI",
     "product_id": "P1007",
     "product_category": "Electronics",
-    "amount": 218.28,
+    "amount": -218.28,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -1063,7 +1063,7 @@
     "payment_method": "Net Banking",
     "product_id": "P1015",
     "product_category": "Electronics",
-    "amount": 234.25,
+    "amount": -234.25,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -1099,7 +1099,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1013",
     "product_category": "Electronics",
-    "amount": 281.51,
+    "amount": -281.51,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -1147,7 +1147,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1013",
     "product_category": "Home Decor",
-    "amount": 451.77,
+    "amount": -451.77,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -1231,7 +1231,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1009",
     "product_category": "Groceries",
-    "amount": 286.59,
+    "amount": -286.59,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -1291,7 +1291,7 @@
     "payment_method": "UPI",
     "product_id": "P1008",
     "product_category": "Electronics",
-    "amount": 361.78,
+    "amount": -361.78,
     "location": "Chennai",
     "status": "Refunded"
   },
@@ -1327,7 +1327,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1018",
     "product_category": "Home Decor",
-    "amount": 380.7,
+    "amount": -380.7,
     "location": "Bangalore",
     "status": "Refunded"
   },
@@ -1351,7 +1351,7 @@
     "payment_method": "Debit Card",
     "product_id": "P1015",
     "product_category": "Books",
-    "amount": 401.4,
+    "amount": -401.4,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -1375,7 +1375,7 @@
     "payment_method": "Cash",
     "product_id": "P1020",
     "product_category": "Books",
-    "amount": 150.3,
+    "amount": -150.3,
     "location": "Kolkata",
     "status": "Refunded"
   },
@@ -1423,7 +1423,7 @@
     "payment_method": "Credit Card",
     "product_id": "P1007",
     "product_category": "Groceries",
-    "amount": 69.84,
+    "amount": -69.84,
     "location": "Delhi",
     "status": "Refunded"
   },
@@ -1440,39 +1440,15 @@
     "status": "Completed"
   },
   {
-    "event_id": "E1120",
+    "event_id": "E1119",
     "event_type": "purchase",
-    "customer_id": "C16",
-    "event_timestamp": "2024-05-16T21:00:00Z",
-    "payment_method": "Credit Card",
+    "customer_id": "C20",
+    "event_timestamp": "2024-08-16T21:00:00Z",
+    "payment_method": "UPI",
     "product_id": "P1011",
     "product_category": "Groceries",
-    "amount": 230.44,
-    "location": "Deoband",
-    "status": "Completed"
-  },
-  {
-    "event_id": "E1121",
-    "event_type": "purchase",
-    "customer_id": "C16",
-    "event_timestamp": "2024-05-16T21:00:00Z",
-    "payment_method": "Credit Card",
-    "product_id": "P1011",
-    "product_category": "Groceries",
-    "amount": 230.44,
-    "location": "Deoband",
-    "status": "Completed"
-  },
-  {
-    "event_id": "E1120",
-    "event_type": "purchase",
-    "customer_id": "C16",
-    "event_timestamp": "2025-05-16T21:00:00Z",
-    "payment_method": "Debit Card",
-    "product_id": "P1011",
-    "product_category": "Groceries",
-    "amount": 230.44,
-    "location": "Delhi",
+    "amount": 212.44,
+    "location": "Bangalore",
     "status": "Completed"
   }
 ]
