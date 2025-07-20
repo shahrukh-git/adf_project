@@ -1438,17 +1438,5 @@
     "amount": 212.44,
     "location": "Bangalore",
     "status": "Completed"
-  },
-  {
-    "event_id": "E1119",
-    "event_type": "purchase",
-    "customer_id": "C20",
-    "event_timestamp": "2024-08-16T21:00:00Z",
-    "payment_method": "UPI",
-    "product_id": "P1011",
-    "product_category": "Groceries",
-    "amount": 212.44,
-    "location": "Bangalore",
-    "status": "Completed"
   }
 ]
