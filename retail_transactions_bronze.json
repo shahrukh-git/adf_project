@@ -1438,5 +1438,29 @@
     "amount": 212.44,
     "location": "Bangalore",
     "status": "Completed"
+  },
+  {
+    "event_id": "E1120",
+    "event_type": "refund",
+    "customer_id": "C20",
+    "event_timestamp": "2024-05-16T21:00:00Z",
+    "payment_method": "Credit Card",
+    "product_id": "P1020",
+    "product_category": "Groceries",
+    "amount": 212.44,
+    "location": "Bangalore",
+    "status": "Completed"
+  },
+  {
+    "event_id": "E1119",
+    "event_type": "refund",
+    "customer_id": "C15",
+    "event_timestamp": "2024-08-16T21:00:00Z",
+    "payment_method": "Debit Card",
+    "product_id": "P1011",
+    "product_category": "Groceries",
+    "amount": 212.44,
+    "location": "Bangalore",
+    "status": "Completed"
   }
 ]
