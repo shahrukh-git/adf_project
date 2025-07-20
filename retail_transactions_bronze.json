@@ -1450,5 +1450,17 @@
     "amount": 230.44,
     "location": "Deoband",
     "status": "Completed"
+  },
+  {
+    "event_id": "E1121",
+    "event_type": "purchase",
+    "customer_id": "C16",
+    "event_timestamp": "2024-05-16T21:00:00Z",
+    "payment_method": "Credit Card",
+    "product_id": "P1011",
+    "product_category": "Groceries",
+    "amount": 230.44,
+    "location": "Deoband",
+    "status": "Completed"
   }
 ]
